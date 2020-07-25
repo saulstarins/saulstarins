@@ -1,0 +1,91 @@
+@font-face{
+  font-family: 'custom-font';
+  src: url('/Font/main.otf');
+}
+body{
+    background: url('./background_blur.jpeg');
+    background-repeat: repeat;
+    height:100%;
+    width:100%;
+}
+
+h4{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.about-text{
+    font-size:22px;
+}
+.about-text-final{
+    font-size: 22px;
+    text-align: center;
+}
+.Main-text{
+    text-align: center;
+    padding-top:30px;
+    animation:typewriter 3s;
+    overflow:hidden;
+    text-align: center;
+    font-size: 20px;
+}
+p{
+  font-family: custom-font;
+
+}
+a{
+    position:absolute;
+    -webkit-animation: Appear_animation 1s ease-in;
+    -o-animation: Appear_animation 232s ease-in;
+    color:black;
+    text-decoration: none;
+    font-size: 30px;
+    padding-left:157px;
+    padding-top:10px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+
+}
+.item-div{
+background: white;
+}
+.shop-image{
+    height:auto;
+    width:auto;
+    max-height: 500px;
+    max-width: 400px;
+    border:solid;
+
+}
+.about-pic{
+    height:350px;
+    width:auto;
+    padding-top:40px;
+}
+.shop-text{
+    font-size: 20px;
+    text-align:center;
+}
+@keyframes Appear_animation {
+    0% {opacity: 0;display: none;}
+    92% {opacity:0; display: block;}
+    94% {opacity:1; display:block}
+
+}
+.lookbook-image{
+    height:auto;
+    width:auto;
+    max-height: 500px;
+    max-width: 400px;
+    border: solid;
+    border-radius: 40px 40px 40px 40px;
+}
+.arrow{
+    height:20px;
+    width:auto;
+
+}
+.shop-div{
+    border:solid;
+}
+
+/* font name is Aribau Grotesk UltraLight
+ */
