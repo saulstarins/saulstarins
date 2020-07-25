@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/saulstarins/static/css/main.89bdc038.chunk.css",
-    "main.js": "/saulstarins/static/js/main.e69f8467.chunk.js",
-    "main.js.map": "/saulstarins/static/js/main.e69f8467.chunk.js.map",
+    "main.css": "/saulstarins/static/css/main.4930eaaf.chunk.css",
+    "main.js": "/saulstarins/static/js/main.b01ca303.chunk.js",
+    "main.js.map": "/saulstarins/static/js/main.b01ca303.chunk.js.map",
     "runtime-main.js": "/saulstarins/static/js/runtime-main.eb523249.js",
     "runtime-main.js.map": "/saulstarins/static/js/runtime-main.eb523249.js.map",
-    "static/js/2.e30673a8.chunk.js": "/saulstarins/static/js/2.e30673a8.chunk.js",
-    "static/js/2.e30673a8.chunk.js.map": "/saulstarins/static/js/2.e30673a8.chunk.js.map",
+    "static/js/2.0273adbe.chunk.js": "/saulstarins/static/js/2.0273adbe.chunk.js",
+    "static/js/2.0273adbe.chunk.js.map": "/saulstarins/static/js/2.0273adbe.chunk.js.map",
     "index.html": "/saulstarins/index.html",
-    "precache-manifest.c8897acf2dee4fd630c81b8c0d0a3599.js": "/saulstarins/precache-manifest.c8897acf2dee4fd630c81b8c0d0a3599.js",
+    "precache-manifest.765eda5cfe5370aced247731e67e0254.js": "/saulstarins/precache-manifest.765eda5cfe5370aced247731e67e0254.js",
     "service-worker.js": "/saulstarins/service-worker.js",
-    "static/css/main.89bdc038.chunk.css.map": "/saulstarins/static/css/main.89bdc038.chunk.css.map",
-    "static/js/2.e30673a8.chunk.js.LICENSE.txt": "/saulstarins/static/js/2.e30673a8.chunk.js.LICENSE.txt",
+    "static/css/main.4930eaaf.chunk.css.map": "/saulstarins/static/css/main.4930eaaf.chunk.css.map",
+    "static/js/2.0273adbe.chunk.js.LICENSE.txt": "/saulstarins/static/js/2.0273adbe.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/saulstarins/static/media/1.182c85ed.JPG",
     "static/media/10.jpg": "/saulstarins/static/media/10.2d0969d2.jpg",
     "static/media/11.JPG": "/saulstarins/static/media/11.45cc1660.JPG",
@@ -43,7 +43,9 @@
     "static/media/9.JPG": "/saulstarins/static/media/9.cefcf151.JPG",
     "static/media/about.jpg": "/saulstarins/static/media/about.216cce7b.jpg",
     "static/media/arrow-left.jpg": "/saulstarins/static/media/arrow-left.d1370b7e.jpg",
+    "static/media/arrow_left3.jpg": "/saulstarins/static/media/arrow_left3.f5943aac.jpg",
     "static/media/arrow_right2.jpg": "/saulstarins/static/media/arrow_right2.a8a05482.jpg",
+    "static/media/arrow_right3.jpg": "/saulstarins/static/media/arrow_right3.efc29fe0.jpg",
     "static/media/background.jpg": "/saulstarins/static/media/background.8b81bad3.jpg",
     "static/media/App.css": "/saulstarins/static/media/background_blur.5942efa2.jpeg",
     "static/media/pic1.png": "/saulstarins/static/media/pic1.961aa98e.png",
@@ -65,8 +67,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.eb523249.js",
-    "static/js/2.e30673a8.chunk.js",
-    "static/css/main.89bdc038.chunk.css",
-    "static/js/main.e69f8467.chunk.js"
+    "static/js/2.0273adbe.chunk.js",
+    "static/css/main.4930eaaf.chunk.css",
+    "static/js/main.b01ca303.chunk.js"
   ]
 }
